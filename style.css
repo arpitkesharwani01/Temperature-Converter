@@ -1,0 +1,27 @@
+body{
+    background-color: #e9e4e4;
+    background-image: url('733043.png') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(3, 220, 86);
+    margin-top: 50px;
+}
+fieldset{
+    background-color: rgb(246, 198, 169);
+    margin: 50px;
+    margin-top: 120px;
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px black;
+}
+#smallHeading{
+    color: rgb(8, 8, 95);
+}
+footer{
+    margin-left: 85%;
+    color: rgb(65, 252, 99);
+}
